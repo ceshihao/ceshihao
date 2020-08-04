@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ceshihao" />
+<img src="https://github-readme-stats.vercel.app/api?username=ceshihao&show_icons=true" />
 
 <!--
 **ceshihao/ceshihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
